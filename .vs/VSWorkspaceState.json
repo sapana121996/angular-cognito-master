@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\header",
+    "\\src\\app\\login",
+    "\\src\\app\\register",
+    "\\src\\app\\shared"
+  ],
+  "SelectedNode": "\\src\\app\\shared\\authorization.service.ts",
+  "PreviewInSolutionExplorer": false
+}
